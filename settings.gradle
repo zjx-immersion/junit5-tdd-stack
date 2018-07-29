@@ -15,4 +15,4 @@ include 'api'
 include 'services:webservice'
 */
 
-rootProject.name = 'rest-assured-coding-practice'
+rootProject.name = 'tdd-java-base'
